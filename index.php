@@ -4,3 +4,4 @@
 		<h1 style="text-align: center; padding: 40px; font-family: Helvetica; font-weight: 100;">Our traffic is a little high right now. We're fixing somthing but we'll be right back!</h1>
 	</body>
 </html>
+<?php die() ?>
